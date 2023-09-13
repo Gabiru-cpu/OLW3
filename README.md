@@ -33,4 +33,4 @@ Aqui estão os links que você precisará durante o evento:
 
 #
 
-#### OBS: essa foi a minha primeira experiencia com PHP já tinha experiência com C# (.NET), Java (SpringBoot), Python (Django bem pouco) e outros frameworks de frontEnd e com essa experiencia posso dizer que gostei mais de PHP do que eu imaginava, no entando C# e Java ainda são meus queridinhos quando se trata de BackEnd.
+#### OBS: essa foi a minha primeira experiencia com PHP e Docker já tinha experiência com C# (.NET), Java (SpringBoot), Python (Django bem pouco) e outros frameworks de frontEnd e com essa experiencia posso dizer que gostei mais de PHP do que eu imaginava, no entando C# e Java ainda são meus queridinhos quando se trata de BackEnd, já Docker é uma tecnologia muito interessante sinto que preciso me aprofundar mais.
