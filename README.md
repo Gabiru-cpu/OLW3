@@ -1,6 +1,6 @@
 # Participando da Open Laravel Week
 
-Bem-vindo ao meu projeto do Open Laravel Week! evento de aprendizado intensivo sobre o desenvolvimento com Laravel.
+Bem-vindo ao meu projeto do Open Laravel Week! evento intensivo sobre o desenvolvimento Laravel.
 
 ## O que eu vou aprender/ aprendi
 
