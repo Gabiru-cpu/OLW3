@@ -31,6 +31,6 @@ Aqui estão os links que você precisará durante o evento:
 - **Laravel Breeze**: [Informações sobre o Laravel Breeze](https://laravel.com/docs/10.x/starter-kits#laravel-breeze)
 - **Configurações para importar no seu PhpStorm**: [Link para o arquivo de configurações](https://drive.google.com/file/d/1hOqDVm4MhKbgmbjDHLh9OvoUu-Hk8yeL/view)
 
-Certifique-se de seguir esses links para obter informações detalhadas sobre cada tópico.
+#
 
 #### OBS: essa foi a minha primeira experiencia com PHP já tinha experiência com C# (.NET), Java (SpringBoot), Python (Django bem pouco) e outros frameworks de frontEnd e com essa experiencia posso dizer que gostei mais de PHP do que eu imaginava, no entando C# e Java ainda são meus queridinhos quando se trata de BackEnd.
